@@ -16,3 +16,12 @@ Then we have the Component folder. It contains the following:
 The rest are normal ReactJS files that need to be there.
 
 Finally, we have a test case file that tests all the test cases for all the components of the app.
+
+I have used the following libraries:-
+1.React Router Dom
+2.React redux and redux
+3.React Icons
+4.Bootstrap
+5.Formik
+6.Yup
+7.Tailwind
