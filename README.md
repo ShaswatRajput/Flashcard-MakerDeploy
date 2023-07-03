@@ -1,4 +1,4 @@
-This is an app that lets the user create flashcards. The user first lands on the creation page where they can add a flashcard group. After that, they can add as many flashcards as they want. Then, the entire data is verified, and a group of flashcards is generated.
+This is ReactJs app that lets the user create flashcards. The user first lands on the creation page where they can add a flashcard group. After that, they can add as many flashcards as they want. Then, the entire data is verified, and a group of flashcards is generated.
 
 All this data is stored in the localStorage and hence remains there even if the page is reloaded. 
 
