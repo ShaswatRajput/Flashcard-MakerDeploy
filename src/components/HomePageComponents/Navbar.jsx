@@ -9,13 +9,13 @@ const Navbar=()=> {
               <div className="flex flex-shrink-0 items-center">
                 <img
                   className="block h-8 w-auto lg:hidden"
-                  src="https://th.bing.com/th/id/R.990534e4476918da8d687acc60000392?rik=GrcoIqPQaAdRPw&riu=http%3a%2f%2fonlinehackz.com%2fapi%2ficon%2f5d825a7ecd95fd7126ea0eb1&ehk=u1dhAFABwP3MHhUg%2fGPdXUHoBIkGc8aOipC3dJQ0gIs%3d&risl=&pid=ImgRaw&r=0"
-                  alt="AlmaCompany"
+                  src="https://th.bing.com/th/id/R.8fc12bd56ccf17a9f829456e5e1b51be?rik=4SocZT8SsfjXlQ&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2falecive%2fflatwoken%2f512%2fApps-Logo-Old-icon.png&ehk=cZaeH%2f80yv7E37njzdDLifhsM58ZE4BNR6fCFToVQyI%3d&risl=&pid=ImgRaw&r=0"
+                  alt="Company"
                 />
                 <img
                   className="hidden h-8 w-auto lg:block"
-                  src="https://th.bing.com/th/id/R.990534e4476918da8d687acc60000392?rik=GrcoIqPQaAdRPw&riu=http%3a%2f%2fonlinehackz.com%2fapi%2ficon%2f5d825a7ecd95fd7126ea0eb1&ehk=u1dhAFABwP3MHhUg%2fGPdXUHoBIkGc8aOipC3dJQ0gIs%3d&risl=&pid=ImgRaw&r=0"
-                  alt="AlmaCompany"
+                  src="https://th.bing.com/th/id/R.8fc12bd56ccf17a9f829456e5e1b51be?rik=4SocZT8SsfjXlQ&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2falecive%2fflatwoken%2f512%2fApps-Logo-Old-icon.png&ehk=cZaeH%2f80yv7E37njzdDLifhsM58ZE4BNR6fCFToVQyI%3d&risl=&pid=ImgRaw&r=0"
+                  alt="Company"
                 />
               </div>
             </div>
