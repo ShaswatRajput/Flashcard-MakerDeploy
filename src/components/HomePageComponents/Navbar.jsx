@@ -17,7 +17,7 @@ const Navbar=()=> {
                   src="https://th.bing.com/th/id/R.8fc12bd56ccf17a9f829456e5e1b51be?rik=4SocZT8SsfjXlQ&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2falecive%2fflatwoken%2f512%2fApps-Logo-Old-icon.png&ehk=cZaeH%2f80yv7E37njzdDLifhsM58ZE4BNR6fCFToVQyI%3d&risl=&pid=ImgRaw&r=0"
                   alt="Company"
                 />
-                <h2>Flashcard Creator</h2>
+                <h2 className="pl-3">Flashcard Creator</h2>
               </div>
             </div>
           </div>
